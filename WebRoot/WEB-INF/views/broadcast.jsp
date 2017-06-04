@@ -27,7 +27,7 @@
 </script>
 </head>
 <body>
-	发送广播
+	发送广播   发什么广告
 	<textarea style="width:100%;height:300px;" id="msg" ></textarea>
 	<input type="button" value="发送" onclick="broadcast()">
 </body>
